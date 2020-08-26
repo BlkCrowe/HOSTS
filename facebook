@@ -1,6 +1,9 @@
 #####################################
 ##            FACEBOOK             ##
 #####################################
+0.0.0.0 www.workplace.com
+0.0.0.0 workplace.com
+0.0.0.0 app.workplace.com
 0.0.0.0 0-act.channel.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 0.beta.facebook.com
